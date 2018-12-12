@@ -1,0 +1,12 @@
+
+select * from TindakanLab
+
+select * from TARIF where Kd_Inst='3002'
+
+tabel tarif dan tindakanlab relasi filed kode1
+
+//menampilkan hasil pemeriksaan lab
+View_HslPemeriksaanLab = hasil lab
+
+Tampil Tarif rawat Jalan
+select * from TARIF where Kd_Inst='3002' and Kd_Kelas='00'
